@@ -5,7 +5,7 @@
 }
 
 h1 {
-  color: red;
+  font-family: 'Piedra', cursive;
   font-size: 40px;
   text-align: center;
 }
@@ -16,6 +16,10 @@ section{
  h2 {
    color: #FF00FF;
    text-decoration: overline;
+ }
+
+ p {
+  font-family: 'Roboto Condensed', sans-serif;
  }
 
  header {
